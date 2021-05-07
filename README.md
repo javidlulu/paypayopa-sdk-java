@@ -1,4 +1,4 @@
-# PayPay SDK - JAVA
+# PayPay SDK - JAVA.
 
 [![License](https://img.shields.io/:license-apache-orange.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Maven Central](https://img.shields.io/maven-central/v/jp.ne.paypay/paypayopa)](https://search.maven.org/artifact/jp.ne.paypay/paypayopa)
@@ -23,8 +23,8 @@ With PayPay's OPA SDK, you can build a custom Payment checkout process to suit y
 
 ## Prerequisites
 Before integrating with the SDK, run through this checklist:
-- [*] Understand the payment flow
-- [*] Sign up for a PayPay developer/merchant Account
+- [*] Understand the payment flow.
+- [*] Sign up for a PayPay developer/merchant Account.
 - [*] Generate the API keys from the Developer Panel. Use the sandbox API Keys to test out the integration
 
 ## HMAC Signature Verification
